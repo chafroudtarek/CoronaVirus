@@ -1,6 +1,7 @@
 # covid19
 
 A new Flutter project.
+CoronaVirus Statistics.
 
 ## Getting Started
 
