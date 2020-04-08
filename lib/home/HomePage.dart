@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
         String curRecovered = countriesList[i]['total_recovered'];
         countries.add(
           Country(
-            name: (countriesList[i]['country_name'] == 'Israel'
+            name: (countriesList[i]['country_name'] == 'Palestine'
                 ? 'NULL'
                 : countriesList[i]['country_name']),
             totalCases: curCases,
